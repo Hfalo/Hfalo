@@ -1,6 +1,4 @@
-- Hi, I’m Hind
-- I’m interested in programming, gaming and AI
-- I’m currently learning GameDev
+
 - 444 🧚🏻‍♀️
 
 
